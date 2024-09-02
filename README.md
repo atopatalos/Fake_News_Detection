@@ -1,10 +1,10 @@
-Fake News Detection
+# Fake News Detection
 This project focuses on detecting fake news using Machine Learning techniques, specifically Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) models.
 
-Overview
+# Overview
 Fake news detection is an important task in today's digital age where misinformation can spread rapidly. This project aims to build a reliable model that can differentiate between real and fake news articles by leveraging the power of deep learning.
 
-Project Workflow
+# Project FLow 
 The following steps outline the framework used to build the machine learning model for fake news detection:
 
 Problem Understanding and Business Case Analysis
@@ -34,7 +34,7 @@ Assess and evaluate the performance of the trained model using appropriate metri
 Getting Started
 To get started with this project, clone the repository and follow the instructions provided in the notebook for setup and execution.
 
-Dependencies
+# Dependencies
 Python 3.x
 pandas
 numpy
@@ -45,5 +45,6 @@ seaborn
 wordcloud
 Make sure to install all required dependencies before running the project.
 
-Conclusion
+# Conclusion
+This project demonstrates the application of deep learning models, particularly LSTM, in solving the problem of fake news detection. By following the steps outlined above, you can reproduce the results and potentially improve the model's accuracy further.
 This project demonstrates the application of deep learning models, particularly LSTM, in solving the problem of fake news detection. By following the steps outlined above, you can reproduce the results and potentially improve the model's accuracy further.
